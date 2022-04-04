@@ -27,8 +27,9 @@
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
+       <meta-data android:name="flutterEmbedding" android:value="2"/>
         <meta-data
-            android:name="flutterEmbedding"
-            android:value="2" />
+            android:name="admob_flutter"
+            android:value="ca-app-pub-1043374888199102~3772150474" />
     </application>
 </manifest>

@@ -11,6 +11,6 @@ class home extends StatefulWidget {
 class _homeState extends State<home> {
   @override
   Widget build(BuildContext context) {
-    return adBanner();
+    return const adBanner();
   }
 }
